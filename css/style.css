@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(9, 9, 177);
+    font-size: 1em;
+}
+
+a {
+    color: yellow;
+    text-decoration: underline;     
+}
+a:hover {
+    color: green;
+}
+
+h3 {
+    color: yellow;
+    font-family: sans-serif
+}
+
+p, h1, ol, ul {
+    color:white;
+    font-family: 'Lucida Sans', Verdana, sans-serif
+}
